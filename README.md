@@ -8,3 +8,6 @@ It contains following components:
 4) Story with inferences
 
 Kindly check PPT attached, for more details
+
+
+![Capture](https://user-images.githubusercontent.com/50289281/67397748-47002680-f5c7-11e9-916e-9fd505fed017.PNG)
