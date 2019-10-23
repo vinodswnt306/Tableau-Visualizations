@@ -7,7 +7,10 @@ It contains following components:
 3) Dashboards
 4) Story with inferences
 
-Kindly check PPT attached, for more details
+Here are some of the details about the project
 
+![Capture2](https://user-images.githubusercontent.com/50289281/67397908-875fa480-f5c7-11e9-933d-ca701d39045b.PNG)
 
 ![Capture](https://user-images.githubusercontent.com/50289281/67397748-47002680-f5c7-11e9-916e-9fd505fed017.PNG)
+
+Kindly check PPT attached, for more details
