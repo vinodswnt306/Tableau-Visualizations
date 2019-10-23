@@ -23,7 +23,7 @@ Here are some of the details about the project
 ## INSIGHT 2 : Largest deal is with Ernst Handel which is in Austria
 ![image](https://user-images.githubusercontent.com/50289281/67400895-f808c000-f5cb-11e9-95a3-37b986cb9207.png)
 
-## INSIGHT 2 : If we increase discounts, we have to bear only 2% decrease in margin, But higher customer attraction.
+## INSIGHT 2 : If we increase discounts by 10%, we have to bear only 2% decrease in margin, But it can result in higher customer attraction and retention.
 ![image](https://user-images.githubusercontent.com/50289281/67400934-02c35500-f5cc-11e9-9e0d-8dc5dd4ed1b6.png)
 
 Kindly check PPT attached, for more details
