@@ -11,7 +11,7 @@ Here are some of the details about the project
 
 ![Capture2](https://user-images.githubusercontent.com/50289281/67397908-875fa480-f5c7-11e9-933d-ca701d39045b.PNG)
 
-## INSIGHT 1 : Sales are high in USA and Germany and moderate in Brazil and France
+## INSIGHT 1 : Sales are high in USA and Germany, moderate in Brazil and France
 ![image](https://user-images.githubusercontent.com/50289281/67400800-d3144d00-f5cb-11e9-973e-193605da4e41.png)
 
 ## INSIGHT 2 : Sale increased 3x, in last 3 years
